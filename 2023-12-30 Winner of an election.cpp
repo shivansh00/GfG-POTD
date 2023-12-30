@@ -2,7 +2,6 @@ class Solution {
     map<string, int> fm;
     set<string> s;
   public:
-  
     //Function to return the name of candidate that received maximum votes.
     vector<string> winner(string arr[],int n) {
         // Your code here
